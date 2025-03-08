@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+credentials
+videos
+data
+
+
 # Object files
 *.o
 *.ko
